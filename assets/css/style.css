@@ -285,9 +285,18 @@ footer{
         padding: 0;
     }
 
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
     hr {
         display: none;
     }
+
+   
 }
 
 /* For medium screen sizes from 950px wide and down */
@@ -324,4 +333,5 @@ footer{
         text-align: center;
         padding: 0 20px;
     }
+
 }
